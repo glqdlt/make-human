@@ -2,7 +2,7 @@
 
 자바
 
-1. JVM 메모리구조 
+1. JVM 메모리구조 (8/28)
 
     - heap area, static area(method & class area), stack area
     
