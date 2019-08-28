@@ -27,9 +27,9 @@
 
 0. 토이 프로젝트
 
-- 댓글 CRUD 게시판 만들기 (혼자)
+- 댓글 CRUD 게시판 만들기 (혼자) 8/28 ~ 9/18 까지
 
-    - Spring boot , ORM(JPA-hibernate) , 페이징 테이블 직접 (datatable 안쓰고)
+    - Spring boot , ORM(JPA-hibernate) , 페이징 테이블 직접 (datatable 안쓰고), 검색(제목/작성자/본문 각각각)
 
 - 도서관의 도서 관리 어플리케이션 (같이)
 
