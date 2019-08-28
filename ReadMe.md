@@ -2,7 +2,13 @@
 
 자바
 
-1. JVM 메모리구조
+1. JVM 메모리구조 
+
+    - heap area, static area(method & class area), stack area
+    
+    - 이클립스 디버깅 창에 뜨는 원리, 메소드 호출  어디서 오는지? 찾아보세요.
+    
+   
 
 2. 객체지향 프로그래밍 : 클래스 기반
 
